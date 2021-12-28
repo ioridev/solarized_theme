@@ -1,39 +1,14 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# solarized_thema
+   <b>Welcomes contribution from everyone.</b>  
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ioridev)  
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
+Solarised theme for Flutter. 
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+![Simulator Screen Shot - iPhone 13 - 2021-12-28 at 22 40 59 Small](https://user-images.githubusercontent.com/41247249/147573069-0aa879fe-b298-4180-a621-86e52f62ab9e.jpeg)
+![Simulator Screen Shot - iPhone 13 - 2021-12-28 at 22 50 42 Small](https://user-images.githubusercontent.com/41247249/147573094-093b29f7-4dd4-4f29-874f-bffe03e6585d.jpeg)
 
-## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+## Using this package
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+see directory example 
