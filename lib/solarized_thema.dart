@@ -1,5 +1,3 @@
-library solarized_thema;
-
 import 'package:flutter/material.dart';
 
 // solarized colors from:
@@ -15,10 +13,10 @@ const Color solarizedBase00 = Color(0xff657b83);
 const Color solarizedBase01 = Color(0xff586e75);
 // dark background tones
 const Color solarizedBase02 = Color(0xff073642);
-const Color solarizedBase03 = Color(0xff002b36);
 // accent colors
 const Color solarizedYellow = Color(0xffb58900);
 const Color solarizedOrange = Color(0xffcb4b16);
+const Color solarizedBase03 = Color(0xff002b36);
 const Color solarizedRed = Color(0xffdc322f);
 const Color solarizedMagenta = Color(0xffd33682);
 const Color solarizedViolet = Color(0xff6c71c4);
