@@ -30,3 +30,4 @@ build/
 
 # vscode
 example/.vscode/launch.json
+.vscode/launch.json
