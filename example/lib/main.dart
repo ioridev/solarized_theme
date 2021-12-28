@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:solarized_thema/solarized_thema.dart';
+import 'package:solarized_theme/solarized_theme.dart';
 
 void main() {
   runApp(const MyApp());
